@@ -1,4 +1,4 @@
-site_name: MkDocs YouTube Tutorial
+site_name: Mis Writeups
 site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
@@ -14,7 +14,7 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
