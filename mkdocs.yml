@@ -1,5 +1,5 @@
 site_name: Mis Writeups
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_url: https://juan881-max.github.io/mis-writeups/
 theme:
   name: material
   features:
@@ -12,9 +12,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: es
   palette:
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
