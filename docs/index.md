@@ -15,7 +15,7 @@ A plain codeblock:
 ```
 Some code here
 def myfunction()
-// some comment
+// some comment nueva palabra
 ```
 
 #### Code for a specific language
